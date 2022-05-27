@@ -1,0 +1,19 @@
+h1 {
+    text-align: center; font-family:Helvetica;
+ }
+ body{
+     background-color: gray;
+ }
+ p {
+     font-size: 32px; font-family:Helvetica; text-align:center;
+ }
+ #center-image{
+     display:block;
+     margin-left:auto;
+     margin-right:auto;
+     width:50%;
+ } 
+ .regular-font-centered{
+     font-family:Helvetica; font-size:32px;
+     text-align: center;
+ }
